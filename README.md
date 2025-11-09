@@ -1,4 +1,4 @@
 # Diwali-Sales-Analysis-and-Reporting 
 **This project focuses on analyzing customer purchasing behavior during the Diwali festival using Python, Pandas, and other data analysis libraries. The objective is to uncover insights into sales trends and customer demographics to support better marketing and business decisions.**
 **The analysis explores patterns across various dimensions such as gender, age group, product category, marital status, occupation, and state, identifying high-performing segments and potential target audiences. The project demonstrates data cleaning, preprocessing, exploratory data analysis (EDA), and visualization techniques through Python-based scripts and Jupyter Notebook.**
-**The project includes a synthetic dataset of ** 11252 ** records, Python-based analysis scripts.**
+**The project also includes a synthetic dataset of ** 11252 ** records which helps in better analysis, and Python-based analysis scripts.**
